@@ -390,6 +390,22 @@ section .title::after{
     font-weight: 500;
     margin: 10px 0 7px 0;
 }
+.projects .carousel .card .box a{
+    display: inline-block;
+    background: #68b587;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 8px 16px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 2px solid #68b587;
+    transition: all 0.3s ease;
+}
+.projects .carousel .card .box a:hover{
+    color: black;
+    background: none;
+}
 .projects .carousel .card img{
     height: 150px;
     width: 150px;
