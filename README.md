@@ -5,3 +5,7 @@ The following repository consist of a Portfolio website which consists all neces
 Tech Stack used -->
 
 HTML, CSS, JavaScript
+
+Deployed on Netlify -->
+
+https://muskankaushik-portfolio.netlify.app/
